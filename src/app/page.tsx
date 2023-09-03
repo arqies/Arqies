@@ -6,12 +6,8 @@ import { motion } from 'framer-motion';
 import React from 'react';
 import youtube from './images/youtube-symbol1.png'
 import dc from './images/dc.png'
-import spoti from './images/spoti.png'
 import git from './images/git.png'
 import twit from './images/Twit.png'
-import insta from './images/insta.png'
-import red from './images/red.png'
-import pin from './images/pin.png'
 import mail from './images/mail.png'
 import Iframe from 'react-iframe'
 import Hire from './hires'
@@ -101,7 +97,6 @@ export default function Home() {
                 
                 <a href="mailto: contact@arqies.com" target="_blank" ><Image alt='as' className="testcolor"src={mail} ></Image></a>
                 <a href="https://github.arqies.com" target="_blank" ><Image alt='as' className="testcolor"src={git} ></Image></a>
-                <a href="https://instagram.arqies.com" target="_blank"><Image alt='as' className="testcolor"src={insta} ></Image></a>
               
                 <a href="https://twitter.arqies.com" target="_blank"><Image alt='as' className="testcolor"src={twit} ></Image></a>
                 <a href="https://youtube.arqies.com" target="_blank"> <Image alt='as' className="testcolor"src={youtube} ></Image></a>
