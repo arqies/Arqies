@@ -134,6 +134,19 @@ font-size: 4em;
 font-family: JockeyOne;
 }
 
+.surname {
+  color: #FFF;
+  text-align: center;
+  font-size: 2em;
+  font-family: JockeyOne;
+}
+
+.nameandsurname {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+}
+
 .aboutme{
   color: #FFF;
   text-align: center;
