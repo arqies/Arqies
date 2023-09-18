@@ -30,7 +30,13 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.dlbtn{
+  border-color: #FFFFFF;
+  border-width: 2px;
+  padding: 4px;
+  min-width: 120px;
 
+}
 .maindiv {
   display: flex;
   flex-direction: column;
