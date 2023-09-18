@@ -92,7 +92,7 @@ export default function Home() {
 
             <div className='flex gap-0'>
             <li className="flex flex-warp gap-5 medialist">
-                <a className='rounded-full dlbtn' href="https://downloads.arqies.com">Downloads</a>
+                <a className='rounded-full dlbtn ' href="https://downloads.arqies.com">Downloads</a>
                 <a href="https://discord.arqies.com" target="_blank" ><Image alt='as' className="testcolor"src={dc} ></Image></a>
                 
                 <a href="mailto: contact@arqies.com" target="_blank" ><Image alt='as' className="testcolor"src={mail} ></Image></a>

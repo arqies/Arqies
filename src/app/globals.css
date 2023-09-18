@@ -36,6 +36,9 @@ body {
   padding: 4px;
   min-width: 120px;
 
+  text-align: center;
+  text-justify:auto;
+
 }
 .maindiv {
   display: flex;
