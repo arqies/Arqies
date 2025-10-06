@@ -88,7 +88,6 @@ export default function Home() {
 
 
           <div className='imgname '>
-             <Image alt='alternate text' src={logo} className='logo'></Image>
             <h1 className='name'>Arqies</h1>
           </div>
           <div className='flex flex-col abmedia justify-center items-center'>
