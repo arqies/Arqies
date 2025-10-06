@@ -87,11 +87,9 @@ export default function Home() {
 
 
 
-          <div className='imgname '>
-            <h1 className='name'>Arqies</h1>
-          </div>
+        
           <div className='flex flex-col abmedia justify-center items-center'>
-            <p className='aboutme'>Hi, I am Arqies. I am a developer who lives in India. I am constantly learning new things and like working on new and unique projects, while improving and expanding my knowledge of different things.</p>
+            <p className='aboutme'>Hi, I am Arqies, a Software/AI engineer who lives in India. I enjoy learning, especially project based learning! .</p>
 
             <div className='flex gap-0'>
       
