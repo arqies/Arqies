@@ -89,7 +89,7 @@ export default function Home() {
 
         
           <div className='flex flex-col abmedia justify-center items-center'>
-            <p className='aboutme'>Hi, I am Arqies, a Software/AI engineer who lives in India. I enjoy learning, especially project based learning! .</p>
+            <p className='aboutme'>Hi, I am Arqies, a Software/AI engineer who lives in India. </p>
 
             <div className='flex gap-0'>
       
