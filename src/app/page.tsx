@@ -88,14 +88,19 @@ export default function Home() {
 
 
           <div className='imgname '>
-             <Image alt='alternate text' src={logo} className='logo'></Image>
+             <Image alt='alternate text' src={logo} className='logo' style="border-radius: 100%;"></Image>
             <h1 className='name'>Arqies</h1>
           </div>
           <div className='flex flex-col abmedia justify-center items-center'>
-            <p className='aboutme'>Hi, I am Arqies. I am a developer who lives in India. I am constantly learning new things and like working on new and unique projects, while improving and expanding my knowledge of different things.</p>
+            <p className='aboutme'>Hi, I am Arqies. A self-taught (and still learning) Software/AI Engineer from India.</p>
 
             <div className='flex gap-0'>
-      
+                  <li className="flex flex-warp gap-5 medialist">
+                      <a href="https://discordapp.com/users/772047297961525269" target="_blank" ><Image alt='ase' className="testcolor"src={dc} ></Image></a>
+                      <a href="https://github.com/arqies" target="_blank" ><Image alt='ase' className="testcolor"src={git} ></Image></a>
+                      <a href="mailto: contact@arqies.com" target="_blank" ><Image alt='ase' className="testcolor"src={mail} ></Image></a>
+                    
+                  </li>
 
             </div>
             </div>
