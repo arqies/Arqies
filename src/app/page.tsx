@@ -92,7 +92,7 @@ export default function Home() {
             <h1 className='name'>Arqies</h1>
           </div>
           <div className='flex flex-col abmedia justify-center items-center'>
-            <p className='aboutme'>Hi, I am Arqies, a Software/AI Engineer specializing in full-stack development and machine learning. I build scalable applications with React, Next.js, and Python, focusing on innovative AI solutions and creative web development.</p>
+            <p className='aboutme'>Hi, I am Arqies, a Software/AI Engineer specializing in full-stack development and machine learning. I build scalable applications, focusing on innovative AI solutions and creative web development.</p>
 
             <div className='flex gap-0'>
                   <li className="flex flex-warp gap-5 medialist">
