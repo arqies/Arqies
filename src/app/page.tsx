@@ -14,7 +14,6 @@ import red from './images/red.png'
 import pin from './images/pin.png'
 import mail from './images/mail.png'
 import Iframe from 'react-iframe'
-import Hire from './hires'
 
 const TEXTS = ['Create', 'Code', 'Design'];
 
@@ -119,7 +118,6 @@ export default function Home() {
         position="relative"/>
 </div>
 
-<Hire/>
 </div>
             </motion.div>
 
