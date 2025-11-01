@@ -95,10 +95,9 @@ export default function Home() {
 
             <div className='flex gap-0'>
                   <li className="flex flex-warp gap-5 medialist">
-                      <a href="https://discordapp.com/users/772047297961525269" target="_blank" ><Image alt='ase' className="testcolor"src={dc} ></Image></a>
                       <a href="https://github.com/arqies" target="_blank" ><Image alt='ase' className="testcolor"src={git} ></Image></a>
                       <a href="mailto: contact@arqies.com" target="_blank" ><Image alt='ase' className="testcolor"src={mail} ></Image></a>
-                    
+                      <a href="https://youtube.com/@arqies" target="_blank" ><Image alt='ase' className="testcolor"src={youtube} ></Image></a>
                   </li>
 
             </div>
